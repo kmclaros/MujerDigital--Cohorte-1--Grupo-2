@@ -1,8 +1,8 @@
 /* para agregar caracteristicas css*/
 body{
-     font-family: "Lemon", serif;
-          font-size: small;
-          margin-bottom: 80px;
-        
-    
+     font-family: "Josefin Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 517;
+     font-style: normal;
+     text-align: center;
 }
