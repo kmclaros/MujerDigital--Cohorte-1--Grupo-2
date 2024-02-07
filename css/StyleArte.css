@@ -9,7 +9,9 @@ body{
 }
 
 
-
+p{
+  text-align: justify;
+}
 
 
 h2{
